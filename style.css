@@ -1,0 +1,14 @@
+.main-section {
+  background-color: red;
+  height: 500px;
+  padding: 10px;
+}
+
+.main-header-item {
+  display: inline;
+}
+
+.hmm {
+  display: inline-block;
+  margin-bottom: 10px;
+}
